@@ -1,0 +1,80 @@
+[
+ {
+   "format_version": 0.2,
+   "sn": "9z64139506",
+   "etch": "w27",
+   "tjxJira": "tjx-4270",
+   "phase": "ii",
+   "state": "receieved",
+   "batch": "Batch K",
+   "ii": {
+      "received": {
+         "date": "2/9/2018",
+         "screening_report": {
+            "cat_tjx_results_freq": "5F/0",
+            "cat_tjx_fail_mode": "Power Dead",
+            "cat_tjx_fail_sig": "",
+            "cat_tjx_sw_fail_mode": "BIOS Stuck",
+            "cat_tjx_fail_freq": "6F/6",
+            "cat_tjx_profile": "",
+            "chip_version": 2.2,
+            "cat_tjx_comment": "Memory Corrupt",
+            "cat_tjx_path": "",
+            "cat_tjx_sw_path": ""
+         }
+      },
+      "correlation": {
+         "date": "2/12/2018"
+      },
+      "ii_review": {
+         "date": "2/15/2018",
+         "ii_report": {
+            "tjx_cat_results": "Pass=2/25",
+            "tjx_stable_results": "Pass=13/15",
+            "extended_results": "Thermal",
+            "outcome": "#REF!",
+            "recommendation": "Close",
+            "tjx_stable_failure": "Thermal",
+            "tjx_cat_failure": "",
+            "extended_failure": "B0.551",
+            "tjx_cat_version": "I3.006",
+            "tjx_cat_stable_version": "B2.36",
+            "review_recommendation": "Priority 9",
+            "comments": "No Comment"
+         }
+      }
+   },
+   "di_queued": {
+      "date": "2/22/2018"
+   },
+   "di": {
+      "analysis": {
+         "date": "3/3/2018"
+      },
+      "collaboration": {
+         "date": "3/10/2018"
+      },
+      "categorized": {
+         "date": "3/21/2018"
+      },
+      "di_review_date": "3/25/2018"
+   },
+   "di_di_report": {
+      "date": "3/28/2018"
+   },
+   "dt": {
+      "vector_development": {
+         "date": "4/9/2018"
+      },
+      "qa": {
+         "date": "4/14/2018"
+      },
+      "dt_report_date": "4/18/2018"
+   },
+   "cl": {
+      "final_review": {
+         "date": "4/27/2018"
+      }
+   }
+}
+]
